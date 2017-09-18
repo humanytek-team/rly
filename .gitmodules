@@ -7,3 +7,6 @@
 [submodule "export_complements"]
 	path = export_complements
 	url = https://github.com/humanytek-team/export_complements
+[submodule "partner_credit"]
+	path = partner_credit
+	url = https://github.com/humanytek-team/partner_credit
