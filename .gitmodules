@@ -19,3 +19,6 @@
 [submodule "raloy_picking_slip_contact_notes"]
 	path = raloy_picking_slip_contact_notes
 	url = https://github.com/humanytek-team/raloy_picking_slip_contact_notes
+[submodule "raloy_product_pieces_fields"]
+	path = raloy_product_pieces_fields
+	url = https://github.com/humanytek-team/raloy_product_pieces_fields
