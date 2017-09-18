@@ -22,3 +22,6 @@
 [submodule "raloy_product_pieces_fields"]
 	path = raloy_product_pieces_fields
 	url = https://github.com/humanytek-team/raloy_product_pieces_fields
+[submodule "raloy_mrp_report"]
+	path = raloy_mrp_report
+	url = https://github.com/humanytek-team/raloy_mrp_report
