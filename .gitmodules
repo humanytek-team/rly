@@ -1,3 +1,6 @@
 [submodule "product_viscosity"]
 	path = product_viscosity
 	url = https://github.com/humanytek-team/product_viscosity
+[submodule "stock_filter_customer_supplier"]
+	path = stock_filter_customer_supplier
+	url = https://github.com/humanytek-team/stock_filter_customer_supplier
