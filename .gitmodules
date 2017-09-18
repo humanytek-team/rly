@@ -4,3 +4,6 @@
 [submodule "stock_filter_customer_supplier"]
 	path = stock_filter_customer_supplier
 	url = https://github.com/humanytek-team/stock_filter_customer_supplier
+[submodule "export_complements"]
+	path = export_complements
+	url = https://github.com/humanytek-team/export_complements
