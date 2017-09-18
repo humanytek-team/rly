@@ -13,3 +13,6 @@
 [submodule "raloy_carta_porte"]
 	path = raloy_carta_porte
 	url = https://github.com/humanytek-team/raloy_carta_porte
+[submodule "raloy_contact_fiscal_position"]
+	path = raloy_contact_fiscal_position
+	url = https://github.com/humanytek-team/raloy_contact_fiscal_position
