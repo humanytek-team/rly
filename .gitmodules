@@ -25,3 +25,6 @@
 [submodule "raloy_mrp_report"]
 	path = raloy_mrp_report
 	url = https://github.com/humanytek-team/raloy_mrp_report
+[submodule "mrp_add_remove_products"]
+	path = mrp_add_remove_products
+	url = https://github.com/humanytek-team/mrp_add_remove_products
