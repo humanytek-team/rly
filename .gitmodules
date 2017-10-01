@@ -31,3 +31,6 @@
 [submodule "raloy_mrp"]
 	path = raloy_mrp
 	url = https://github.com/humanytek-team/raloy_mrp
+[submodule "customer_credit_limit"]
+	path = customer_credit_limit
+	url = https://github.com/humanytek-team/customer_credit_limit
